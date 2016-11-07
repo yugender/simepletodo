@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ToDo App</string>
+    <string name="add">Add</string>
+    <string name="newItemHint">Add a new item</string>
+    <string name="saveEdit">Save</string>
+    <string name="editItemDescription">Edit Item Below</string>
+    <string name="action_add_task">add</string>
+    <string name="taskName">Task Name</string>
+    <string name="taskNameHint">Enter name of the task</string>
+    <string name="taskPriority">Priority Level</string>
+    <string-array name="priority_levels">
+        <item>LOW</item>
+        <item>MEDIUM</item>
+        <item>HIGH</item>
+    </string-array>
+</resources>
